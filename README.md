@@ -6,17 +6,15 @@ Utilizando a biblioteca Prophet para predição de dados da Covid-19
 
 # Realizei este projeto hoje 06/05/2021 e conforme os resultados encontrados, foi previsto os seguintes números de mortes:
 Colunas:
-*ds* = Data
-*yhat_lower* = Previsão mínima
-*yhat* = Previsão efetiva
-*yhat_upper* = previsão máxima
+*ds* = Data, *yhat_lower* = Previsão mínima, *yhat* = Previsão efetiva, *yhat_upper* = previsão máxima
+
 
 ![image](https://user-images.githubusercontent.com/67704261/117239389-0e204f00-ae05-11eb-969c-2ddf6a7d75b2.png)
 
 
-# Até o momento, não estou conseguindo visualizar os números inteiros, portanto, entendi que:
-# Por exemplo na linha 495 -> 2021-05-31 o resultado seria 3,882007 X 10 ^ 6 = 3.882.007 (3.88 milhões)
-# Sendo assim um resultado bem arpoximado de realidade atual
+## Até o momento, não estou conseguindo visualizar os números inteiros, portanto, entendi que:
+## Por exemplo na linha 495 -> 2021-05-31 o resultado seria 3,882007 X 10 ^ 6 = 3.882.007 (3.88 milhões)
+## Sendo assim um resultado bem arpoximado de realidade atual
 
 # De forma gráfica, estou melhorando ainda a visualização, mas por enquanto temos este:
 
