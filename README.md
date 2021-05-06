@@ -19,3 +19,5 @@ Colunas:
 # De forma gráfica, estou melhorando ainda a visualização, mas por enquanto temos este:
 
 ![image](https://user-images.githubusercontent.com/67704261/117239928-1927af00-ae06-11eb-83c8-f2c3f1aeea99.png)
+
+## Fonte de dados: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
